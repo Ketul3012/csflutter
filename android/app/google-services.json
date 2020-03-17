@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888549729505",
+    "firebase_url": "https://csflutter-e330a.firebaseio.com",
+    "project_id": "csflutter-e330a",
+    "storage_bucket": "csflutter-e330a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888549729505:android:c059d54dcfc8b6c2f643a0",
+        "android_client_info": {
+          "package_name": "com.example.csflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888549729505-pc2b4cg4e07tpov2te9hq3fbr27c4jgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluqTF9XfB0I8wVcPaWovKjIT34muWqrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888549729505-pc2b4cg4e07tpov2te9hq3fbr27c4jgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
